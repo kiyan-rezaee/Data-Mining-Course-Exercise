@@ -1,1 +1,1 @@
-# Data-Mining-Course-Material
+# Data-Mining-Course-Exercise
