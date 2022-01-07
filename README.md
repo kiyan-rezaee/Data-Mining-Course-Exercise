@@ -1,5 +1,5 @@
 # Data-Mining-Course-Exercise
-## Instructor : [ِDR.Farshid Mehrdoust](https://scholar.google.com/citations?user=JUWwhBoAAAAJ&hl=en)
+## Instructor : [DR.Farshid Mehrdoust](https://scholar.google.com/citations?user=JUWwhBoAAAAJ&hl=en)
 ## Table of Contents
 ### [Introduction](https://drive.google.com/file/d/19cxaPGDngtPUan2A_MZauU1_xmR4r6mG/view?usp=sharing)
 ### [Regression](https://drive.google.com/file/d/1j29ax3hGFy9cBUpFZSSw65ubcC-P0vbn/view?usp=sharing)
