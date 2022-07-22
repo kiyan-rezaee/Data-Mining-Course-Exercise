@@ -1,4 +1,4 @@
-# Data-Mining-Course-Exercise
+# Machine Learning 
 ## Instructor : [DR.Farshid Mehrdoust](https://scholar.google.com/citations?user=JUWwhBoAAAAJ&hl=en)
 ## Table of Contents
 ### 1. [Introduction](https://drive.google.com/file/d/19cxaPGDngtPUan2A_MZauU1_xmR4r6mG/view?usp=sharing)
